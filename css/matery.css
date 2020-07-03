@@ -334,6 +334,7 @@ header .side-nav .mobile-head img {
     margin-top: 30px;
     width: 75px;
     height: 75px;
+    display: none;
 }
 
 header .side-nav .mobile-head .logo-name {
